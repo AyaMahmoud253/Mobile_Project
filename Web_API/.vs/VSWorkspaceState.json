@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Web_API",
+    "\\Web_API\\Models",
+    "\\Web_API\\services"
   ],
-  "SelectedNode": "\\Web_API.sln",
+  "SelectedNode": "\\Web_API\\services\\AuthService.cs",
   "PreviewInSolutionExplorer": false
 }
