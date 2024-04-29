@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
+      "PackagePath": "staticwebassets\\confirmemail.html"
+    },
+    {
+      "Id": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
+      "PackagePath": "staticwebassets\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

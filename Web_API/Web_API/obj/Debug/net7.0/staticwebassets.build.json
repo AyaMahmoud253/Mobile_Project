@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1tc9mI/kwiQR4U99bm+hKpmK5lZdOAOf4ZkkyenqOf4=",
+  "Source": "Web_API",
+  "BasePath": "_content/Web_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web_API\\wwwroot",
+      "Source": "Web_API",
+      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
+      "SourceId": "Web_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "RelativePath": "confirmemail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\confirmemail.html"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
+      "SourceId": "Web_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "RelativePath": "profile-pictures/f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg"
+    }
+  ]
+}
