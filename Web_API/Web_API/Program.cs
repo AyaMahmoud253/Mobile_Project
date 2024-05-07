@@ -10,6 +10,7 @@ using System.Text;
 using Web_API.helpers;
 using Web_API.Models;
 using Web_API.services;
+using Web_API.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -69,6 +70,8 @@ builder.Services.AddAuthentication(options =>
 
 // Add other scoped services
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+
 builder.Services.AddRazorPages();
 var app = builder.Build();
 

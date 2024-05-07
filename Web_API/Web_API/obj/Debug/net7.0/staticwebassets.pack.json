@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
+      "Id": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
       "PackagePath": "staticwebassets\\confirmemail.html"
     },
     {
-      "Id": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG",
+      "Id": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG",
       "PackagePath": "staticwebassets\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG"
     },
     {
-      "Id": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
+      "Id": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
       "PackagePath": "staticwebassets\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg"
     },
     {

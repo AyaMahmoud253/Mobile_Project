@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ci5EgyWsZsdI5KKYehSZRvqKghN4T/jszayhn38TZqI=",
+  "Hash": "bZzSBLr6lfERRmvB6Sx9vHy1sqbXBKU9xmLklJuLzyg=",
   "Source": "Web_API",
   "BasePath": "_content/Web_API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web_API\\wwwroot",
       "Source": "Web_API",
-      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "ContentRoot": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
+      "Identity": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\confirmemail.html",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "ContentRoot": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "confirmemail.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\confirmemail.html"
     },
     {
-      "Identity": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG",
+      "Identity": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "ContentRoot": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "profile-pictures/97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\profile-pictures\\97c9a934-655c-431e-ba76-b2dba0299f5c_Capture.PNG"
     },
     {
-      "Identity": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
+      "Identity": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\profile-pictures\\f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\laptop\\Documents\\GitHub\\MobileAPIa\\Web_API\\Web_API\\wwwroot\\",
+      "ContentRoot": "D:\\WebApiProject\\Web_API\\Web_API\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "profile-pictures/f3b71e26-ffd7-48fe-9ed3-a7c1cfac3bcc_photo_2023-10-09_12-36-44.jpg",
       "AssetKind": "All",
