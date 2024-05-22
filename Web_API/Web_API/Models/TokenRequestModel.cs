@@ -5,7 +5,7 @@ namespace Web_API.Models
     public class TokenRequestModel
     {
         [Required(ErrorMessage = "Email is required")]
-        [RegularExpression(@"^[a-zA-Z0-9._%+-]+@gmail\.com$", ErrorMessage = "Invalid Gmail address format. Only Gmail addresses are allowed.")]
+        [RegularExpression(@"^[a-zA-Z0-9]+@stud\.fci-cu\.edu\.eg$", ErrorMessage = "Invalid FCI email format")]
         public string Email { get; set; }
 
         [Required(ErrorMessage = "Password is required")]

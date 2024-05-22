@@ -5,6 +5,6 @@
     "\\Web_API\\Models",
     "\\Web_API\\services"
   ],
-  "SelectedNode": "\\Web_API\\services\\AuthService.cs",
+  "SelectedNode": "\\Web_API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

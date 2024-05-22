@@ -10,7 +10,7 @@ namespace Web_API.Models
         public string? Gender { get; set; } // For radio buttons, you can handle this in the UI
 
         [Required(ErrorMessage = "Email is required")]
-        [RegularExpression(@"^[a-zA-Z0-9._%+-]+@gmail\.com$", ErrorMessage = "Invalid Email Address. Only Gmail addresses are allowed.")]
+        [RegularExpression(@"^[a-zA-Z0-9]+@stud\.fci-cu\.edu\.eg$", ErrorMessage = "Invalid Email Address")]
         public string Email { get; set; }
 
         public string Level { get; set; }
